@@ -1,0 +1,23 @@
+{
+  "name": "repo-known-bad",
+  "version": "1.0.0",
+  "description": "Repository with typos, security issues, dependency vulnerabilities, and credentials leaked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-source-crawler-test/repo-known-bad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-source-crawler-test/repo-known-bad/issues"
+  },
+  "homepage": "https://github.com/open-source-crawler-test/repo-known-bad#readme",
+  "dependencies": {
+    "readme-crawler": "^1.0.5",
+    "webpack": "^0.5.4"
+  }
+}
